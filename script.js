@@ -8,6 +8,10 @@ const color = document.querySelector('#color')
 
 btn_toggle.onclick = () => {
   // your code here
+  let input = length.value
+  let number = 630610741
+  let ans = +number + +input
+  author.innerHTML = ans
 }
 
 // more codes for Search and Reset buttons here
