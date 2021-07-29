@@ -5,4 +5,4 @@
 https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/EYscK6ebyH9Aijef2Eu71E8BQZZKVPen_uOWqJbACXQUwA?e=fWGR2U
 
 #### ระบุ URL ของ Github Pages สำหรับเว็บไซต์นี้ด้านใต้หัวข้อนี้
-http://127.0.0.1:5500/index.html
+http://127.0.0.1:5500/quiz201-Thidtanai/index.html
